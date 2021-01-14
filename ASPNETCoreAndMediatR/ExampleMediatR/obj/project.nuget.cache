@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5EyBAhUeXZOmS+BULeruiNmivTEbVseVmbuttsYm7LLniYMXf2yJvadIGU/aW/5sI7FzV9P9CKjF/PLlFMlTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Farrukh-PC\\Downloads\\ASPNETCoreAndMediatR\\ASPNETCoreAndMediatR\\ExampleMediatR\\LoanAppBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farrukh-PC\\.nuget\\packages\\fluentvalidation\\8.6.0\\fluentvalidation.8.6.0.nupkg.sha512",
+    "C:\\Users\\Farrukh-PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.0\\fluentvalidation.dependencyinjectionextensions.8.6.0.nupkg.sha512",
+    "C:\\Users\\Farrukh-PC\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Farrukh-PC\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Farrukh-PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Farrukh-PC\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
